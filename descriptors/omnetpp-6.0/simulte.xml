@@ -1,0 +1,7 @@
+<project name="simulte"
+         version="1.2.0"
+         title="SimuLTE"
+         short-description="A Simulator for LTE Networks"
+         long-description="This version of SimuLTE requires INET 4.2.2 and OMNeT++ 5.6.2 or 6.0pre10 or later. Make sure that INET 4.2.2 is already installed in your workspace before attempting to install."
+         distribution-url="https://github.com/inet-framework/simulte/archive/v1.2.0.tar.gz"
+         />
