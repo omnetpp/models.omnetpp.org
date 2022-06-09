@@ -1,8 +1,8 @@
 <project name="flora"
-         version="1.0.0"
+         version="1.1.0"
          title="FLoRa"
          short-description="A Framework for LoRa (Long Range) networks"
-         long-description="FLoRa is a simulation framework for carrying out end-to-end simulations for LoRa networks. FLoRa requires OMNeT++ 6.0 pre10 or later and INET 4.3.1 or later. Visit https://flora.aalto.fi for more information."
-         distribution-url="https://github.com/mariuszslabicki/flora/archive/refs/tags/v1.0.0.tar.gz"
+         long-description="FLoRa is a simulation framework for carrying out end-to-end simulations for LoRa networks. FLoRa requires OMNeT++ 6.0 and INET 4.4 or later. Visit https://flora.aalto.fi for more information."
+         distribution-url="https://github.com/florasim/flora/releases/download/v1.1.0/flora-1.1.0.tgz"
          />
 
