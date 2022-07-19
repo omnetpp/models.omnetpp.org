@@ -1,4 +1,5 @@
 inet.xml
+simu5g.xml
 simulte.xml
 flora.xml
 inet43.xml
