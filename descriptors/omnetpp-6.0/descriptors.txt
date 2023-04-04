@@ -2,6 +2,7 @@ inet.xml
 simu5g.xml
 simulte.xml
 flora.xml
+inet44.xml
 inet43.xml
 inet42.xml
 inet3.xml
