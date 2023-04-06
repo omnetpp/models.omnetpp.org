@@ -1,0 +1,7 @@
+<project name="veins5.2"
+         version="5.2"
+         title="Veins"
+         short-description="Open source vehicular network simulation framework."
+         long-description="See http://veins.car2x.org/ for more info."
+         distribution-url="https://github.com/sommer/veins/archive/refs/tags/veins-5.2.tar.gz"
+         />
