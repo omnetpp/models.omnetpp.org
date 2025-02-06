@@ -1,7 +1,7 @@
 <project name="simu5g"
-         version="1.2.1"
+         version="1.3.0"
          title="Simu5G"
          short-description="A Simulator for 5G Networks"
-         long-description="This version of Simu5G requires INET 4.4 and OMNeT++ 6.0. Make sure that INET 4.4.0 is already properly installed in your workspace before attempting to install."
-         distribution-url="https://github.com/Unipisa/Simu5G/archive/refs/tags/v1.2.1.tar.gz"
+         long-description="This version of Simu5G requires INET 4.5.4 and OMNeT++ 7. Make sure that INET 4.4.0 is already properly installed in your workspace before attempting to install."
+         distribution-url="https://github.com/Unipisa/Simu5G/releases/download/v1.3.0/simu5g-1.3.0-src.tgz"
          />
