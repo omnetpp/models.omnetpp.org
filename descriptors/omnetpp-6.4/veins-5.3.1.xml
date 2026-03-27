@@ -1,0 +1,11 @@
+<project name="veins-5.3.1"
+         version="5.3.1"
+         title="Veins"
+         short-description="Open source vehicular network simulation framework."
+         long-description="See http://veins.car2x.org/ for more info."
+         distribution-url="https://github.com/sommer/veins/archive/refs/tags/veins-5.3.1.tar.gz"
+         >
+    <project-references names="inet-4.5.4" />
+    <active-config name="gcc-debug" />
+    <build-env-var name="INET_ROOT" value="${workspace_loc:/inet-4.5.4}" />
+</project>

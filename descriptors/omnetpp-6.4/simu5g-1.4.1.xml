@@ -1,0 +1,11 @@
+<project name="simu5g-1.4.1"
+         version="1.4.1"
+         title="Simu5G"
+         short-description="A Simulator for 5G Networks"
+         long-description="Simu5G is a simulator for 5G New Radio networks based on OMNeT++ and INET. This version requires INET 4.5.4 and OMNeT++ 6.4. Make sure that INET is already installed in your workspace before attempting to install."
+         distribution-url="https://github.com/Unipisa/Simu5G/releases/download/v1.4.1/simu5g-1.4.1-src.tgz"
+         >
+    <project-references names="inet-4.5.4" />
+    <active-config name="gcc-debug" />
+    <build-env-var name="INET_ROOT" value="${workspace_loc:/inet-4.5.4}" />
+</project>

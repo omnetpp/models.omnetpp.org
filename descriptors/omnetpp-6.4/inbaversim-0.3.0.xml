@@ -1,0 +1,11 @@
+<project name="inbaversim-0.3.0"
+         version="0.3.0"
+         title="InbaverSim"
+         short-description="An OMNeT++ model to simulate CCN-based networks"
+         long-description="This version of InbaverSim requires INET 4.5 and OMNeT++ 6.1 or later. Make sure that INET is already installed in your workspace before attempting to install."
+         distribution-url="https://github.com/ComNets-Bremen/inbaverSim/archive/refs/tags/v0.3.0.tar.gz"
+         >
+    <project-references names="inet-4.5.4" />
+    <active-config name="gcc-debug" />
+    <build-env-var name="INET_ROOT" value="${workspace_loc:/inet-4.5.4}" />
+</project>
